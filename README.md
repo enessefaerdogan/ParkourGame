@@ -1,2 +1,2 @@
 # Parkour Game
-Oyun 4 bölümden oluşmakta ve her bölümde farklı hızlara sahip hareketli engeller var , oyunun amacı engelleri aşarak en üstteki noktaya ulaşmak , level atlamak ve sonunda oyunu bitirmek.Java Diliyle Kodlandı
+The game consists of 4 parts and there are moving obstacles with different speeds in each part, the aim of the game is to reach the top point by overcoming the obstacles, to level up and finally to finish the game. 
